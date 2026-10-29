@@ -14,7 +14,10 @@
 
 # ? ./unlog --nl --ml -l=1 --msg="test"
 
-exec ./unlog  --nl --ml -l=1 --msg="test"
+# ? debug version: ./unlog  --ql  -l=1 --msg="test"
+exec ./unlog  --ql="test"
+
+# exec ./unlog  --nl --ml -l=1 --msg="test"
 # TODO:  that worked, make that a proc for now
 puts  {"hello world"}
 
