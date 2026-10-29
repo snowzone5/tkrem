@@ -14,5 +14,5 @@
 # ? ./unlog --nl --ml -l=1 --msg="test"
 
 puts  {"hello world"}
-puts  {"hello world"}  # ! breakpoint not working?
+puts  {"hello world"};  # ! breakpoint not working?
 puts  {"hello world"}
