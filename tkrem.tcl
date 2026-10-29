@@ -14,6 +14,9 @@
 
 # ? ./unlog --nl --ml -l=1 --msg="test"
 
+exec ./unlog  --nl --ml -l=1 --msg="test"
+# TODO:  that worked, make that a proc for now
 puts  {"hello world"}
+
 puts  {"hello world"};  # ! breakpoint not working?
 puts  {"hello world"}
