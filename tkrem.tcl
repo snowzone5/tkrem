@@ -6,7 +6,8 @@
 # ? test
 # // test
 # * test
-# ! did gitkraken just bork?
+# // did gitkraken just bork?
+# regular comment
 
 # TODO: get nim working locally, until i can dupe it in tcl/tk 9
 # TODO: reduce to just the nimlogger, but maybe offer other options if requested
