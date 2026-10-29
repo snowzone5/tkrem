@@ -1,2 +1,1 @@
-unlog.exe
-unlog.log:w
+unlog.*
