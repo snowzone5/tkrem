@@ -1,0 +1,66 @@
+tkrem journey 
+
+# TODO: part 1: explain the trials of the setup (intro)
+
+In Apr 2002 blogging was becoming a thing, at least that I noticed :) . 
+Being a tech nerd I wanted to get in on it so I looked for a crossplatform
+app.  At that time I think there was a python program what would work, 
+and of course a java program.
+
+Ok this is a bad but valid example, IMHO this is a perfect example of 
+java and why I will never do java:
+
+List<String> result = users.stream().filter(u -> u.getAge() > 
+18).filter(u -> u.isActive()).map(User::getName).sorted()
+.collect(Collectors.toList());
+
+Pretty sure I know what this does, not the point, but you don't just grok
+ (the original Heinlien meaning)  this. TBF, the first time I tried to
+ learn java was in  '95. The stupidity didn't take. Is it powerful? Yes, 
+ It was orginallly written in c/C++. That alone tells you how powerful 
+ c/C++ is. 
+ 
+I've heard a number of C++ coders who prefer the language... but they
+don't know all of it. The guy who came up with the C++ standard 
+(bjorne something ) is clearly a genious. Us plebian coders will 
+probably never reach that status. Some do, (perl, tcl guido, java goslin)
+
+ Eventually any language written in c/C++ will be able to 
+ compile.itself. That is the power of C/C++. I already know what you want
+ to ask: "Why don't all coders users C/C+?+"
+
+Ok, my reason:
+
+Way back when I used to subscribe to a now defunct magazine called
+ "Computer Language". I read an interview with a progammer what wrote 
+ air traffic controller code (for Boeing, in C++ For about 10 years).
+
+ This was at a point where I was ok with C, and wanted to get into the 
+ whole OO thing with C++. I read this guy's interview. And then I read 
+ that even with all this experience he felt he STILL didn't think he 
+ had mastered C++. I was done. I would never get anywhere near that.
+
+ So I started looking for another language. I was already ok with  8086
+ assembly, pascal, C (via turbo C) turbo pascal, turbo basic, and then later 
+ quickbasic. I wrote a lot of stuff in quickbasic, I already knew Apple
+ basic C= 2.0 basic. I stuck with it through visual basic for DOS, Windows,
+ and then lots of minor basics that really couldn't make a go of it.
+
+
+
+
+# TODO: vscode install
+
+sublime(bought a license, atom too friggin' slow)
+
+# TODO: tcl/tk install (magicsplat)
+
+down the road wlhen i get a working version I will work on the android 
+tablet version. ipad is more problematic, because steve wants it that way.
+# TODO: vscode extensions
+# TODO: gitkraken
+# TODO: unlog, logviewer (darkmode any app)
+# TODO: why i'm coding this app in VScode
+
+i started with Borland's Sidekick with that and Superkey. Couldn't afford
+Brief, but Qedit, and Boxer became my got.
